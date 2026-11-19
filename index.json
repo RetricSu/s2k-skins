@@ -1,0 +1,64 @@
+{
+  "skins": [
+    {
+      "name": "Tokyo Night",
+      "author": "Enkia",
+      "license": "MIT",
+      "source": "https://github.com/enkia/tokyo-night-vscode-theme",
+      "url": "https://raw.githubusercontent.com/RetricSu/s2k-skins/main/skins/tokyo-night.skin.txt",
+      "preview": {
+        "bg": "1a1b26",
+        "accent": "385191",
+        "text": "a9b1d6"
+      }
+    },
+    {
+      "name": "Dark (Visual Studio)",
+      "author": "Microsoft",
+      "license": "MIT",
+      "source": "https://github.com/microsoft/vscode",
+      "url": "https://raw.githubusercontent.com/RetricSu/s2k-skins/main/skins/dark-visual-studio.skin.txt",
+      "preview": {
+        "bg": "1e1e1e",
+        "accent": "466f9e",
+        "text": "d4d4d4"
+      }
+    },
+    {
+      "name": "Light (Visual Studio)",
+      "author": "Microsoft",
+      "license": "MIT",
+      "source": "https://github.com/microsoft/vscode",
+      "url": "https://raw.githubusercontent.com/RetricSu/s2k-skins/main/skins/light-visual-studio.skin.txt",
+      "preview": {
+        "bg": "ffffff",
+        "accent": "466f9e",
+        "text": "000000"
+      }
+    },
+    {
+      "name": "GitHub Dark",
+      "author": "GitHub",
+      "license": "MIT",
+      "source": "https://github.com/github/vscode",
+      "url": "https://raw.githubusercontent.com/RetricSu/s2k-skins/main/skins/github-dark.skin.txt",
+      "preview": {
+        "bg": "24292e",
+        "accent": "176f2c",
+        "text": "e1e4e8"
+      }
+    },
+    {
+      "name": "GitHub Light",
+      "author": "GitHub",
+      "license": "MIT",
+      "source": "https://github.com/github/vscode",
+      "url": "https://raw.githubusercontent.com/RetricSu/s2k-skins/main/skins/github-light.skin.txt",
+      "preview": {
+        "bg": "ffffff",
+        "accent": "159739",
+        "text": "24292e"
+      }
+    }
+  ]
+}

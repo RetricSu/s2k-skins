@@ -1,0 +1,70 @@
+# s2k skin converted from a VS Code theme.
+# source: https://github.com/enkia/tokyo-night-vscode-theme (MIT, (c) 2018-present Enkia)
+# theme: Tokyo Night ("dark")
+# generator: scripts/vscode2skin.py
+# Check the theme's license before redistributing this file.
+
+dark_mode = true
+
+# 表面
+bg_base = 16161e
+bg_panel = 1a1b26
+bg_status = 16161e
+bg_gutter = 1d1e29
+bg_active_line = 1e202e
+bg_inset = 3b3e52
+bg_hover = 13131a
+bg_inset_hover = 3f4256
+bg_inset_press = 42455b
+bg_menu_hover = 202330
+bg_menu_press = 292c3a
+bg_menu_hover_strong = 242735
+
+# 线条
+border = 101014
+border_soft = 131319
+border_gutter = 262734
+guide = 232433
+
+# 文字
+text = 787c99
+text_strong = a9b1d6
+text_code = a9b1d6
+text_muted = 515670
+text_faint = 4c4e62
+text_disabled = 545c7e
+text_shortcut = 47495c
+text_empty = 53556a
+text_line_number = 363b54
+text_icon = 787c99
+
+# 主色
+accent = 385191
+accent_hover = 5469a0
+accent_press = 32467c
+accent_text = 6183bb
+on_accent = ffffff
+
+# 状态
+dirty = e0af68
+error_label = db4b4b
+error_code = db4b4b
+
+# 语法高亮
+syntax_comment = 51597d
+syntax_keyword = bb9af7
+syntax_function = 7aa2f7
+syntax_type = 0db9d7
+syntax_builtin = 6fb3c0
+syntax_field = 7dcfff
+syntax_variable = e0af68
+syntax_constant = ff9e64
+syntax_module = 0db9d7
+syntax_label = 73daca
+syntax_string = 9ece6a
+syntax_character = bb9af7
+syntax_number = ff9e64
+syntax_boolean = ff9e64
+syntax_operator = 89ddff
+syntax_punctuation = c0caf5
+syntax_error = ff5370

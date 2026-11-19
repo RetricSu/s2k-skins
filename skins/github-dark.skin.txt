@@ -1,0 +1,70 @@
+# s2k skin converted from a VS Code theme.
+# source: https://github.com/github/vscode (github-vscode-theme, MIT)
+# theme: GitHub Dark ("?")
+# generator: scripts/vscode2skin.py
+# Check the theme's license before redistributing this file.
+
+dark_mode = true
+
+# 表面
+bg_base = 1f2428
+bg_panel = 24292e
+bg_status = 24292e
+bg_gutter = 292e33
+bg_active_line = 2b3036
+bg_inset = 444d56
+bg_hover = 282e34
+bg_inset_hover = 4c555e
+bg_inset_press = 555d66
+bg_menu_hover = 39414a
+bg_menu_press = 485058
+bg_menu_hover_strong = 414851
+
+# 线条
+border = 1b1f23
+border_soft = 1d2226
+border_gutter = 3a3f44
+guide = 2f363d
+
+# 文字
+text = d1d5da
+text_strong = e1e4e8
+text_code = e1e4e8
+text_muted = 959da5
+text_faint = 81858a
+text_disabled = 666b6f
+text_shortcut = 787c81
+text_empty = 8d9296
+text_line_number = 444d56
+text_icon = a4a9ae
+
+# 主色
+accent = 176f2c
+accent_hover = 338346
+accent_press = 18622b
+accent_text = 79b8ff
+on_accent = dcffe4
+
+# 状态
+dirty = ffea7f
+error_label = f97583
+error_code = f97583
+
+# 语法高亮
+syntax_comment = 6a737d
+syntax_keyword = f97583
+syntax_function = d9b380
+syntax_type = 6fb3c0
+syntax_builtin = 6fb3c0
+syntax_field = a9bde8
+syntax_variable = 79b8ff
+syntax_constant = 79b8ff
+syntax_module = 6fb3c0
+syntax_label = d9b380
+syntax_string = 9ecbff
+syntax_character = 85e89d
+syntax_number = 9cc48e
+syntax_boolean = 93abdf
+syntax_operator = d7dade
+syntax_punctuation = ffab70
+syntax_error = fdaeb7
